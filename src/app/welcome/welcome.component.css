@@ -1,0 +1,611 @@
+.mediaViewInfo {
+    --web-view-name: Web 1280 – 1;
+    --web-view-id: Web_1280__1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: Web_1280__1;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#Web_1280__1 {
+    position: absolute;
+    width: 1280px;
+    height: 1080px;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    --web-view-name: Web 1280 – 1;
+    --web-view-id: Web_1280__1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+
+}
+#Rectangle_32 {
+    fill: rgba(0,0,0,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_32 {
+    position: absolute;
+    overflow: visible;
+    width: 1279.579px;
+    height: 41.57px;
+    left: 0px;
+    top: -0.085px;
+}
+#Rectangle_33 {
+    fill: rgba(133,30,30,1);
+}
+.Rectangle_33 {
+    position: absolute;
+    overflow: visible;
+    width: 1280px;
+    height: 478px;
+    left: 0px;
+    top: 45px;
+}
+#Rectangle_34 {
+    fill: rgba(255,188,32,1);
+}
+.Rectangle_34 {
+    position: absolute;
+    overflow: visible;
+    width: 1280px;
+    height: 557px;
+    left: 0px;
+    top: 523px;
+}
+#Rectangle_53 {
+    opacity: 0.27;
+    filter: blur(50px);
+    fill: rgba(255,255,255,1);
+}
+.Rectangle_53 {
+    position: absolute;
+    overflow: visible;
+    width: 1135px;
+    height: 938px;
+    left: 79px;
+    top: 69px;
+}
+#Rectangle_42 {
+    fill: rgba(0,0,0,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_42 {
+    position: absolute;
+    overflow: visible;
+    width: 1279.579px;
+    height: 43.57px;
+    left: 0px;
+    top: 1038.915px;
+}
+#SECURE_MORE__DEVICE_AND_ACCOUN {
+    left: 577px;
+    top: 611px;
+    position: absolute;
+    overflow: visible;
+    width: 304px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 27px;
+    color: rgba(133,30,30,1);
+    text-decoration: underline;
+}
+#Rectangle_45 {
+    fill: rgba(133,30,30,1);
+}
+.Rectangle_45 {
+    position: absolute;
+    overflow: visible;
+    width: 155px;
+    height: 95px;
+    left: 243px;
+    top: 668px;
+}
+#Rectangle_46 {
+    fill: rgba(255,188,32,1);
+}
+.Rectangle_46 {
+    position: absolute;
+    overflow: visible;
+    width: 139px;
+    height: 86px;
+    left: 252px;
+    top: 670px;
+}
+#Path_6 {
+    fill: rgba(133,30,30,1);
+}
+.Path_6 {
+    overflow: visible;
+    position: absolute;
+    width: 211.179px;
+    height: 34.578px;
+    left: 235.603px;
+    top: 767.483px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Path_7 {
+    fill: rgba(133,30,30,1);
+}
+.Path_7 {
+    overflow: visible;
+    position: absolute;
+    width: 187.112px;
+    height: 25.082px;
+    left: 248.067px;
+    top: 772.57px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Group_30 {
+    position: absolute;
+    width: 49px;
+    height: 52px;
+    left: 298px;
+    top: 690px;
+    overflow: visible;
+}
+#Rectangle_28 {
+    fill: rgba(255,188,32,1);
+    stroke: rgba(133,30,30,1);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_28 {
+    position: absolute;
+    overflow: visible;
+    width: 28px;
+    height: 29px;
+    left: 10px;
+    top: 0px;
+}
+#Rectangle_27 {
+    fill: rgba(255,188,32,1);
+    stroke: rgba(133,30,30,1);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_27 {
+    position: absolute;
+    overflow: visible;
+    width: 49px;
+    height: 33px;
+    left: 0px;
+    top: 19px;
+}
+#Rectangle_29 {
+    fill: rgba(133,30,30,1);
+    stroke: rgba(133,30,30,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_29 {
+    position: absolute;
+    overflow: visible;
+    width: 9px;
+    height: 16px;
+    left: 21px;
+    top: 29px;
+}
+#Rectangle_43 {
+    fill: rgba(133,30,30,1);
+}
+.Rectangle_43 {
+    position: absolute;
+    overflow: visible;
+    width: 4px;
+    height: 224px;
+    left: 540px;
+    top: 594px;
+}
+#Group_29 {
+    position: absolute;
+    width: 44px;
+    height: 95px;
+    left: 428px;
+    top: 668px;
+    overflow: visible;
+}
+#Component_1__2 {
+    position: absolute;
+    width: 44px;
+    height: 95px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_24 {
+    fill: rgba(133,30,30,1);
+    stroke: rgba(133,30,30,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_24 {
+    position: absolute;
+    overflow: visible;
+    width: 44px;
+    height: 95px;
+    left: 0px;
+    top: 0px;
+}
+#Rectangle_26 {
+    fill: rgba(255,188,32,1);
+}
+.Rectangle_26 {
+    position: absolute;
+    overflow: visible;
+    width: 40px;
+    height: 88px;
+    left: 2px;
+    top: 0px;
+}
+#Ellipse_22 {
+    fill: rgba(133,30,30,1);
+}
+.Ellipse_22 {
+    position: absolute;
+    overflow: visible;
+    width: 2px;
+    height: 2px;
+    left: 21px;
+    top: 0px;
+}
+#Lorem_ipsum_dolor_sit_amet_con {
+    left: 577px;
+    top: 722px;
+    position: absolute;
+    overflow: hidden;
+    width: 491px;
+    height: 96px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(0,0,0,1);
+}
+#Line_12 {
+    fill: transparent;
+    stroke: rgba(255,188,32,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_12 {
+    overflow: visible;
+    position: absolute;
+    width: 312px;
+    height: 1px;
+    left: 846.5px;
+    top: 350.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#LOGIN_WITH {
+    left: 854px;
+    top: 331px;
+    position: absolute;
+    overflow: visible;
+    width: 96px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(255,255,255,1);
+}
+#Group_46 {
+    position: absolute;
+    width: 53.5px;
+    height: 63px;
+    left: 939px;
+    top: 383px;
+    overflow: visible;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: page;
+    --web-action-target: Web_1280___6.html;
+    cursor: pointer;
+}
+#download {
+    position: absolute;
+    width: 47px;
+    height: 47px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Group_42 {
+    position: absolute;
+    width: 53px;
+    height: 12px;
+    left: 0.5px;
+    top: 51px;
+    overflow: visible;
+}
+#TWITTER {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 54px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(255,255,255,1);
+}
+#Group_43 {
+    position: absolute;
+    width: 70px;
+    height: 63px;
+    left: 1013px;
+    top: 383px;
+    overflow: visible;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: page;
+    --web-action-target: Web_1280___7.html;
+    cursor: pointer;
+}
+#instagram_PNG9 {
+    position: absolute;
+    width: 47px;
+    height: 47px;
+    left: 9px;
+    top: 0px;
+    overflow: visible;
+}
+#INSTAGRAM {
+    left: 0px;
+    top: 51px;
+    position: absolute;
+    overflow: visible;
+    width: 71px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(255,255,255,1);
+}
+#Group_45 {
+    position: absolute;
+    width: 53px;
+    height: 63px;
+    left: 1105px;
+    top: 383px;
+    overflow: visible;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: page;
+    --web-action-target: Web_1280___8.html;
+    cursor: pointer;
+}
+#ID1004px-Google__G__Logosvg {
+    position: absolute;
+    width: 47px;
+    height: 47px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Group_44 {
+    position: absolute;
+    width: 52px;
+    height: 12px;
+    left: 1px;
+    top: 51px;
+    overflow: visible;
+}
+#GOOGLE {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 53px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(255,255,255,1);
+}
+#Group_41 {
+    position: absolute;
+    width: 66px;
+    height: 63px;
+    left: 850px;
+    top: 383px;
+    overflow: visible;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: page;
+    --web-action-target: Web_1280___5.html;
+    cursor: pointer;
+}
+#Facebook-Logo {
+    position: absolute;
+    width: 47px;
+    height: 47px;
+    left: 6px;
+    top: 0px;
+    overflow: visible;
+}
+#FACEBOOK {
+    left: 0px;
+    top: 51px;
+    position: absolute;
+    overflow: visible;
+    width: 67px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: rgba(255,255,255,1);
+}
+#Rectangle_47 {
+    fill: rgba(255,188,32,1);
+    stroke: rgba(255,255,255,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_47 {
+    position: absolute;
+    overflow: visible;
+    width: 220px;
+    height: 42px;
+    left: 847px;
+    top: 246px;
+}
+#REGISTER_NOW {
+    left: 857px;
+    top: 255.399px;
+    position: absolute;
+    overflow: visible;
+    width: 228px;
+    white-space: nowrap;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: page;
+    --web-action-target: Web_1280___9.html;
+    cursor: pointer;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 29px;
+    color: rgba(133,30,30,1);
+}
+#Group_59 {
+    position: absolute;
+    width: 400.8px;
+    height: 165.724px;
+    left: 163.2px;
+    top: 274.276px;
+    overflow: visible;
+}
+#Group_58 {
+    position: absolute;
+    width: 54.283px;
+    height: 56.643px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Path_13 {
+    fill: rgba(255,188,32,1);
+    stroke: rgba(133,30,30,1);
+    stroke-width: 4px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_13 {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    overflow: visible;
+    position: absolute;
+    width: 72.283px;
+    height: 74.643px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Ellipse_10 {
+    fill: rgba(133,30,30,1);
+    stroke: rgba(255,188,32,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ellipse_10 {
+    position: absolute;
+    overflow: visible;
+    width: 23.601px;
+    height: 25.961px;
+    left: 29.601px;
+    top: 11.801px;
+}
+#Group_57 {
+    position: absolute;
+    width: 370px;
+    height: 133px;
+    left: 30.8px;
+    top: 32.724px;
+    overflow: visible;
+}
+#_Trace {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 371px;
+    white-space: nowrap;
+    line-height: 160px;
+    margin-top: -13.5px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 133px;
+    color: rgba(255,255,255,1);
+}
+#Rectangle_57 {
+    fill: rgba(255,255,255,1);
+}
+.Rectangle_57 {
+    position: absolute;
+    overflow: visible;
+    width: 11px;
+    height: 66px;
+    left: 11px;
+    top: 36px;
+}
